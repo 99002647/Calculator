@@ -13,12 +13,16 @@
 #include "iostream"
 
 
-int add(int operand1, int operand2);
+double addition(double v1, double v2);
 
-int subtract(int operand1, int operand2);
+double subtract(double v1, double v2);
 
-int multiply(int operand1, int operand2);
+double multiply(double v1, double v2);
 
-int divide(int operand1, int operand2);
+double divide(double v1, double v2);
+
+int power(int v1, int v2);
+
+int modulo(int v1, int v2);
 
 #endif  /* #define __HEADERS_H__ */
