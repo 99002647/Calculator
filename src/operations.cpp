@@ -1,4 +1,4 @@
-#include "../inc/headers.h"
+#include "headers.h"
 
 double addition(double v1, double v2)
 {
