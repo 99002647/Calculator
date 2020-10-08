@@ -1,4 +1,5 @@
 #include <headers.h>
+#include <operations.cpp>
 using namespace std;
 
 int main()
