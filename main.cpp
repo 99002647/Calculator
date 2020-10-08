@@ -1,5 +1,5 @@
-#include "inc\headers.h"
-#include "src\operations.cpp"
+#include "headers.h"
+#include "operations.cpp"
 using namespace std;
 
 int main()
