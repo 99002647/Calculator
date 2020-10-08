@@ -1,11 +1,11 @@
 # Name of the project
-PROJECT_NAME = HiperCalculator
+PROJECT_NAME = Calculator
 
 # Output directory
 BUILD = build
 
 # All source code files
-SRC = HiperCalc.cpp\
+SRC = main.cpp\
 src/operations.cpp\
 
 
